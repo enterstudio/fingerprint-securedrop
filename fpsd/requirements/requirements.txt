@@ -46,7 +46,7 @@ pyparsing==2.1.10         # via matplotlib
 python-dateutil==2.6.0    # via matplotlib, pandas
 pytz==2016.10             # via matplotlib, pandas
 pyvirtualdisplay==0.2.1
-PyYAML==3.12
+PyYAML==5.3.1
 pyzmq==16.0.2             # via jupyter-client
 qtconsole==4.2.1          # via jupyter
 scikit-learn==0.17.1
