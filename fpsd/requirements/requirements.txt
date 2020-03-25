@@ -8,7 +8,7 @@ aiohttp==1.2.0
 aiosocks==0.1.7
 appdirs==1.4.0            # via setuptools
 async-timeout==1.1.0      # via aiohttp
-bleach==1.5.0             # via nbconvert
+bleach==3.1.2             # via nbconvert
 chardet==2.3.0            # via aiohttp
 cycler==0.10.0            # via matplotlib
 decorator==4.0.11         # via ipython, traitlets
