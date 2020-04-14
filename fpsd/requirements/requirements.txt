@@ -8,18 +8,18 @@ aiohttp==1.2.0
 aiosocks==0.1.7
 appdirs==1.4.0            # via setuptools
 async-timeout==1.1.0      # via aiohttp
-bleach==1.5.0             # via nbconvert
+bleach==2.1             # via nbconvert
 chardet==2.3.0            # via aiohttp
 cycler==0.10.0            # via matplotlib
 decorator==4.0.11         # via ipython, traitlets
 EasyProcess==0.2.3        # via pyvirtualdisplay
 entrypoints==0.2.2        # via nbconvert
-html5lib==0.9999999       # via bleach
+html5lib==0.99999999       # via bleach
 ipykernel==4.5.2          # via ipywidgets, jupyter, jupyter-console, notebook, qtconsole
 ipython-genutils==0.1.0   # via nbformat, notebook, traitlets
 ipython==5.2.2            # via ipykernel, ipywidgets, jupyter-console
 ipywidgets==5.2.2         # via jupyter
-jinja2==2.9.5             # via nbconvert, notebook
+jinja2==2.10.1             # via nbconvert, notebook
 jsonschema==2.6.0         # via nbformat
 jupyter-client==4.4.0     # via ipykernel, jupyter-console, notebook, qtconsole
 jupyter-console==5.1.0    # via jupyter
@@ -27,11 +27,11 @@ jupyter-core==4.2.1       # via jupyter-client, nbconvert, nbformat, notebook, q
 jupyter==1.0.0
 MarkupSafe==0.23          # via jinja2
 matplotlib==2.0.0
-mistune==0.7.3            # via nbconvert
+mistune==0.8            # via nbconvert
 multidict==2.1.4          # via aiohttp, yarl
 nbconvert==5.1.1          # via jupyter, notebook
 nbformat==4.2.0           # via nbconvert, notebook
-notebook==4.3.2           # via jupyter, widgetsnbextension
+notebook==5.7.6           # via jupyter, widgetsnbextension
 numpy==1.12.0
 packaging==16.8           # via setuptools
 pandas==0.19.2
@@ -60,7 +60,7 @@ stem==1.5.4
 tbselenium==0.1
 terminado==0.6            # via notebook
 testpath==0.3             # via nbconvert
-tornado==4.4.2            # via ipykernel, notebook, terminado
+tornado==5.1.0            # via ipykernel, notebook, terminado
 tqdm==4.11.2
 traitlets==4.3.1          # via ipykernel, ipython, ipywidgets, jupyter-client, jupyter-core, nbconvert, nbformat, notebook, qtconsole
 wcwidth==0.1.7            # via prompt-toolkit
