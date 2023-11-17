@@ -4,7 +4,7 @@
 #
 #    pip-compile --output-file requirements.txt requirements.in
 #
-aiohttp==1.2.0
+aiohttp==3.8.6
 aiosocks==0.1.7
 appdirs==1.4.0            # via setuptools
 async-timeout==1.1.0      # via aiohttp
@@ -52,7 +52,7 @@ qtconsole==4.2.1          # via jupyter
 scikit-learn==0.17.1
 scipy==0.18.1
 seaborn==0.7.1
-selenium==2.53.6          # via tbselenium
+selenium==4.15.1          # via tbselenium
 simplegeneric==0.8.1      # via ipython
 six==1.10.0               # via bleach, cycler, html5lib, matplotlib, prompt-toolkit, python-dateutil, setuptools, traitlets
 SQLAlchemy==1.1.5
