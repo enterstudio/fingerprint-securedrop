@@ -61,7 +61,7 @@ tbselenium==0.1
 terminado==0.6            # via notebook
 testpath==0.3             # via nbconvert
 tornado==4.4.2            # via ipykernel, notebook, terminado
-tqdm==4.11.2
+tqdm==4.66.3
 traitlets==4.3.1          # via ipykernel, ipython, ipywidgets, jupyter-client, jupyter-core, nbconvert, nbformat, notebook, qtconsole
 wcwidth==0.1.7            # via prompt-toolkit
 widgetsnbextension==1.2.6  # via ipywidgets
