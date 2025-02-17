@@ -8,13 +8,13 @@ aiohttp==1.2.0
 aiosocks==0.1.7
 appdirs==1.4.0            # via setuptools
 async-timeout==1.1.0      # via aiohttp
-bleach==1.5.0             # via nbconvert
+bleach==3.3.0             # via nbconvert
 chardet==2.3.0            # via aiohttp
 cycler==0.10.0            # via matplotlib
 decorator==4.0.11         # via ipython, traitlets
 EasyProcess==0.2.3        # via pyvirtualdisplay
 entrypoints==0.2.2        # via nbconvert
-html5lib==0.9999999       # via bleach
+html5lib==0.99999999       # via bleach
 ipykernel==4.5.2          # via ipywidgets, jupyter, jupyter-console, notebook, qtconsole
 ipython-genutils==0.1.0   # via nbformat, notebook, traitlets
 ipython==5.2.2            # via ipykernel, ipywidgets, jupyter-console
