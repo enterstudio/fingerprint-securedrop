@@ -4,7 +4,7 @@
 #
 #    pip-compile --output-file requirements.txt requirements.in
 #
-aiohttp==1.2.0
+aiohttp==3.13.3
 aiosocks==0.1.7
 appdirs==1.4.0            # via setuptools
 async-timeout==1.1.0      # via aiohttp
